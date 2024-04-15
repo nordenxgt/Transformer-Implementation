@@ -6,7 +6,7 @@ Paper: https://arxiv.org/pdf/1706.03762.pdf
 
 ## Architecture
 
-<img src="./images/architecture.png" alt="Transformer Architecture" style="width:100%;">
+<img src="./images/architecture.png" alt="Transformer Architecture">
 
 ## Attention
 
